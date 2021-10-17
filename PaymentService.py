@@ -1,0 +1,1 @@
+print("Please pay for your meal")
